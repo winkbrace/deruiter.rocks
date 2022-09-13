@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "gerda": "npx tailwindcss -i ./gerda/src/style.css -o ./gerda/assets/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
